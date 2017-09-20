@@ -5,3 +5,4 @@ WdCount is a word counting utility which is helpful for counting total number of
 Benefits of this tool includes :
 
 * It Saves Time and Effort.
+* For long documents, this tool calculates the word count easily.
