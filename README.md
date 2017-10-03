@@ -6,3 +6,8 @@ Benefits of this tool includes :
 
 * It Saves Time and Effort.
 * For long documents, this tool calculates the word count easily.
+
+## Installation
+
+1. Make sure [Python ](https://www.python.org/downloads/) is installed.
+2. Clone this repository  
