@@ -6,6 +6,9 @@ Benefits of this tool includes :
 
 * It Saves Time and Effort.
 * For long documents, this tool calculates the word count easily.
+* t is the best way to measure the article length.
+* It will improve your textual quality.
+* It also helps to show the amount of anchor text found on your content.
 
 
 
@@ -28,3 +31,4 @@ Example :
 
 ```
     $ python pagerank.py sample/text.txt
+```
