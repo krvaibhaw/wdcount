@@ -12,6 +12,8 @@
 ![](https://img.shields.io/github/license/krvaibhaw/bitpass)
 [![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.paypal.com/paypalme/krvaibhaw/100)
 
+![](https://img.shields.io/badge/Python-blue)
+
 
 WdCount is a word counting utility which is helpful for counting total number of words in a given file. A word count is a numerical count of the number of words in a document, file, or string of text. It can be utliized in various sceaniros like for document editors, social media with limited words count per post, blooger, etc.
 
