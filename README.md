@@ -46,4 +46,4 @@ Example :
 
 ```
     $ python pagerank.py sample/text.txt
-``` 
+```
